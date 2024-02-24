@@ -1,3 +1,9 @@
+#sub_category
+{
+  /* display:none; */
+  height: 460px;
+}
+
 .custom_row
 {
   height: auto;  
@@ -14,15 +20,6 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
-
-#main_category
-{
- margin-top: 30px;
-}
-#size_selection
-{
-    display: none;
-}
 .card-title
 {
   font-size: medium;
@@ -35,4 +32,8 @@
   width: 100%;    /* Set your desired width */
   height: 270px; /* Set your desired height */
   object-fit: cover; /*Preserve aspect ratio while covering the specified size */
+}
+.dropdown-menu.show {
+  display: block;
+  cursor: pointer!important;
 }

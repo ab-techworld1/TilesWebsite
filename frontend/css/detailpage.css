@@ -1,0 +1,45 @@
+.mid_section
+{
+    margin-top: 40px;
+    height: 500px;
+}
+.custom_row
+{
+  height: 450px;  
+}
+.custom_card
+{
+    width: 600px;
+    height: 450px;
+}
+.center-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; Adjust the height as needed */
+}
+.modal-header {
+    text-align: center;
+    border-bottom: none;
+  }
+
+  .modal-title {
+    width: 100%; /* Set your desired width */
+    margin: 0 auto; /* Center the title within the header */
+  }
+
+.fixed-size-img {
+    width: 200px; /* Set your desired width */
+    height: 380px; /* Set your desired height */
+    object-fit: cover; /* Preserve aspect ratio while covering the specified size */
+}
+
+.cust_row
+{
+    margin-bottom: 15px; 
+}
+.sub_btn
+{
+    margin-left: 80px;
+    margin-right: 80px;
+}
