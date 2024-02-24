@@ -1,0 +1,26 @@
+.custom_row
+{
+  height: 450px;  
+}
+.custom_card
+{
+    width: 350px;
+}
+
+#main_category
+{
+ 
+}
+#size_selection
+{
+    display: none;
+}
+#sub_category
+{
+  display:none;
+}
+#category_details
+{
+  display: none;
+}
+
